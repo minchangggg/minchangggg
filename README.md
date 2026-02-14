@@ -1,7 +1,4 @@
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhtrangtonnu/)
-
-## 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/minhtrangtonnu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Minh%20Trang%20Ton%20Nu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
