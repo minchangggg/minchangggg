@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌷, I'm Minh Trang Ton Nu</h1>
+<h1 align="center">Hi 🌷, I'm Minh Trang</h1>
 <h3 align="center">
 Final-year Electronics & Telecommunications Student | 
 IC Design Intern | Aspiring Semiconductor Engineer
